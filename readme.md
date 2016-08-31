@@ -1,6 +1,6 @@
 FFmpegPlayer-iOS - A movie player for iOS based on FFmpeg.
 ==========================================================
-What i did:
+### What i did:
 1. add ffmpeg 3.1.2 static library, you can build the workspace directly. 
 2. add build-ffmpeg.sh script file, you can build your ffmpeg, arch supports: i386, x86_64, armv7, arm64
 3. fix some issues, and make the project build successfully.
